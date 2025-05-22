@@ -6,7 +6,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-
 - 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 
 - 💻 I’m currently working on web development technologies like Java, JavaScript, Angular etc.
@@ -17,12 +16,10 @@
   
 - 📫 How to reach me marcosquispep41@gmail.com
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" height="30" width="40" /></a>
 </p>
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,6 +37,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
