@@ -2,9 +2,16 @@
 
 <h3 align="center">A passionate developer and Al student</h3>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+
 - 🌱 I’m currently learning **Data science**
 
+- 💻 I’m currently working on web development technologies like JavaScript, Angular etc.
+
 - 📫 How to reach me **marcosquispep41@gmail.com**
+
 
 - ⚡ Fun fact **I like chocolate cookies**
 
