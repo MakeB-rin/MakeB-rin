@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Marcos Quispe P <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
 
-<h3 align="center">Un desarrollador apasionado y estudiante de IA.</h3>
+<h3 align="center">A passionate developer and AI student.</h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
