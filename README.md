@@ -1,14 +1,15 @@
 <h1 align="center">Hola, Soy Marcos Quispe P <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
 
-<h3 align="center">A passionate developer and Al student</h3>
+<h3 align="center">Un desarrollador apasionado y estudiante de IA.</h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks.
 
-- 💻 I’m currently working on web development technologies like Java, JavaScript, Angular etc.
+- 💻 
+Actualmente estoy trabajando en tecnologías de desarrollo web como Java, JavaScript, Angular, etc.
 
 - 🌟 Main languages: Java, Python, JavaScript
   
