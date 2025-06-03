@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Marcos Quispe P <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
+<h1 align="center">Hi, I'm Marcos QP <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
 
 <h3 align="center">A passionate developer and AI student.</h3>
 
@@ -6,10 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks.
+- 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 
-- 💻 
-Actualmente estoy trabajando en tecnologías de desarrollo web como Java, JavaScript, Angular, etc.
+- 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc.
 
 - 🌟 Main languages: Java, Python, JavaScript
   
