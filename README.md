@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" height="30" width="40" /></a>
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,3 +38,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MakeB-rin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000822" alt="MakeB-rin" />
+</p>
