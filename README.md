@@ -8,6 +8,9 @@
 
 - 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 
+  <!--
+  <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  -->
 - 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc.
 
 - 🌟 Main languages: Java, Python, JavaScript
@@ -17,9 +20,17 @@
 - 📫 How to reach me marcosquispep41@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" height="30" width="40" /></a>
-</p>
+<section align="left">
+<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" width="35" />
+</a>
+<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
+  <img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="35px">
+</a>
+<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" width="35" />
+</a>
+</section>
 
 ### 🛠 &nbsp;Languages and Tools:
 
@@ -42,3 +53,4 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MakeB-rin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000822" alt="MakeB-rin" />
 </p>
+
