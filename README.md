@@ -6,16 +6,13 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I like to explore new technologies and develop software solutions and quick hacks.<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="210" align="right"/>
+- 🌱 I like to explore new technologies and develop software solutions and quick hacks.
   <!--<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
-- 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc.
+- 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc. <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="240" align="right"/>
 
-- 🌟 Main languages: Java, Python, JavaScript
+- 🌟 Main languages: Java, Python, JavaScript 
   
-- ⚡ Exploring new technologies
-  
-- 📫 How to reach me marcosquispep41@gmail.com
-
+- ⚡ Exploring new technologies 
 
 ## 🛠 &nbsp;Languages and Tools:
 
@@ -39,7 +36,6 @@
 </p>
 
 ## 💬 For More Information, Please Check Out or Contact Me Via
-
 <p align="center">
   <a href="marcosquispep41@gmail.com" >
     <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -48,10 +44,8 @@
   <a href="https://www.linkedin.com/in/marcos-quispe-p-b8b034229/" target="_blank">
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  
 <p>
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
 </div>
-
