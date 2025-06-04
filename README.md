@@ -32,10 +32,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
+<!--
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MakeB-rin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000822" alt="MakeB-rin" />
-</p>
+</p>-->
 
 ## 💬 For More Information, Please Check Out or Contact Me Via
 <p align="center">
