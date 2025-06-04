@@ -4,13 +4,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I like to explore new technologies and develop software solutions and quick hacks.
-
-  <!--
-  <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  -->
+- 🌱 I like to explore new technologies and develop software solutions and quick hacks.<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="210" align="right"/>
+  <!--<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 - 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc.
 
 - 🌟 Main languages: Java, Python, JavaScript
@@ -19,20 +16,8 @@
   
 - 📫 How to reach me marcosquispep41@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<section align="left">
-<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" width="35" />
-</a>
-<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
-  <img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="35px">
-</a>
-<a href="https://linkedin.com/in/marcos-quispe-p-b8b034229" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-quispe-p-b8b034229" width="35" />
-</a>
-</section>
 
-### 🛠 &nbsp;Languages and Tools:
+## 🛠 &nbsp;Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -49,8 +34,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
-<p align='center'>
+<p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MakeB-rin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000822" alt="MakeB-rin" />
 </p>
+
+## 💬 For More Information, Please Check Out or Contact Me Via
+
+<p align="center">
+  <a href="marcosquispep41@gmail.com" >
+    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/marcos-quispe-p-b8b034229/" target="_blank">
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+<p>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+</div>
 
