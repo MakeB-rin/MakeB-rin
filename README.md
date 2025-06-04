@@ -8,9 +8,9 @@
 
 - 🌱 I like to explore new technologies and develop software solutions and quick hacks.
   <!--<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
-- 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc. <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="140" align="right"/>
+- 💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc. 
 
-- 🌟 Main languages: Java, Python, JavaScript 
+- 🌟 Main languages: Java, Python, JavaScript <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="100" align="right"/>
   
 - ⚡ Exploring new technologies 
 
