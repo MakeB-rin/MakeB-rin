@@ -12,7 +12,9 @@
 
 - 🌟 Main languages: Java, Python, JavaScript 
   
-- ⚡ Exploring new technologies 
+- ⚡ Exploring new technologies
+
+- 📫 How to reach me marcosquispep41@gmail.com
 
 ## 🛠 &nbsp;Languages and Tools:
 
