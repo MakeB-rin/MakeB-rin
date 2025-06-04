@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MakeB-rin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=000822" alt="MakeB-rin" />
 </p>-->
 
-## 💬 For More Information, Please Check Out or Contact Me Via
+## 💬 For More Information, Please Contact Me Via
 <p align="center">
   <a href="marcosquispep41@gmail.com" >
     <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
