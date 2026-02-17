@@ -18,7 +18,7 @@
   
 
 
-## 💬 Ponte en Contacto:
+## 💬 Contactos:
 <p align="left">
   <a  href="mailto:marcosquispep41@gmail.com" target="blank">
     <img alt="Gmail" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
