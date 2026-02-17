@@ -4,7 +4,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-## 👨🏻‍💻 &nbsp; About Me
+## 👨🏻‍💻 &nbsp; Acerca de mí
 
 🌱  I like to explore new technologies and develop software solutions and quick hacks.
   <!--<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
