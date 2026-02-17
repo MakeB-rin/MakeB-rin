@@ -1,24 +1,24 @@
-<h1 align="center"> Hi, I'm Marcos QP <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
+<h1 align="center"> Hola, Soy Marcos QP <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30" width="40"/> </h1>
 
-<h3 align="center"><i> A passionate developer and AI student. </i></h3>
+<h3 align="center"><i> 🚀 Desarrollador apasionado y estudiante de IA. </i></h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ## 👨🏻‍💻 &nbsp; Acerca de mí
 
-🌱  I like to explore new technologies and develop software solutions and quick hacks.
+🌱  Apasionado por el aprendizaje continuo, asi como desarrollar soluciones de software y algunas hacks rápidos.
   <!--<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
-💻  I’m currently working on web development technologies like Java, JavaScript, Angular etc. 
+💻  Actualmente estoy trabajando en tecnologías de desarrollo web como: Java, Angular, Nestjs, Nextjs. 
 
-🌟  Main languages: Java, Python, JavaScript 
+🌟  Stack Principal: Java, Python, typescript.
   
-⚡  Exploring new technologies
+⚡  Siempre explorando y adoptando nuevas tecnologías.
 
-📫  How to reach me marcosquispep41@gmail.com
+📫  Contacto: marcosquispep41@gmail.com
   
 
 
-## 💬 Connect with me
+## 💬 Ponte en Contacto:
 <p align="left">
   <a  href="mailto:marcosquispep41@gmail.com" target="blank">
     <img alt="Gmail" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
@@ -30,7 +30,7 @@
 
 </p>
 
-## 🛠 &nbsp;Languages and Tools:
+## 🛠 &nbsp;Tecnologías y Herramientas:
 
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,nodejs,express,nest,js,ts,postman,vscode,tailwind,angular,nextjs,postgres,mysql,mongo,git,docker,unity,godot&perline=10"/>
 
